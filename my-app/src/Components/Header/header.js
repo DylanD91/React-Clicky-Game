@@ -7,7 +7,7 @@ const Header = () => { return(
             <h2>React-Clicky-Game</h2>
         </FadeIn>
         <FadeIn in={true} duration={600} length={'50px'} direction={'bottom'} >
-            <h1>Orange Is The New Black - Clicky Game</h1>
+            <h1>OITNB - Clicky Game</h1>
         </FadeIn>
     </header>
 )};
