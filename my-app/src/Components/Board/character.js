@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import FadeIn from '../transitions/fade-in';
+import FadeIn from '../Transitions/fade-in';
 
 export default class Character extends Component {
 

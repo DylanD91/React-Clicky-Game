@@ -1,5 +1,5 @@
 import React from 'react';
-import FadeIn from '../transitions/fade-in';
+import FadeIn from '../Transitions/fade-in';
 
 const Header = () => { return(
     <header className="App-header">

@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
-import FadeIn from '../transitions/fade-in';
+import FadeIn from '../Transitions/fade-in';
 import CharacterBox from './characterBox';
-import ScoreDisplay from './scoredisplay';
+import ScoreDisplay from './scoreDisplay';
 
 const shuffleArray = arr => (
     arr
@@ -14,7 +14,7 @@ const shuffleArray = arr => (
 const initialChars = [
     {
         name: 'Piper',
-        images: 'piper.jpg',
+        images: './my-app/images/piper.jpg',
         clicked: false
     },
     {
