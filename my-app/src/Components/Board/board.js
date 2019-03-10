@@ -14,7 +14,7 @@ const shuffleArray = arr => (
 const initialChars = [
     {
         name: 'Piper',
-        images: './my-app/images/piper.jpg',
+        images: 'images/piper.jpg',
         clicked: false
     },
     {
