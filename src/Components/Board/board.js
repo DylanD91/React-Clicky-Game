@@ -14,62 +14,62 @@ const shuffleArray = arr => (
 const initialChars = [
     {
         name: 'Piper',
-        images: 'images/piper.jpg',
+        img: './images/piper.jpg',
         clicked: false
     },
     {
         name: 'Alex',
-        img: 'images/alex.jpg',
+        img: './images/alex.jpg',
         clicked: false
     },
     {
         name: 'Lorna',
-        img: 'images/lorna.jpg',
+        img: './images/lorna.jpg',
         clicked: false
     },
     {
         name: 'Red',
-        img: 'images/red.jpg',
+        img: './images/red.jpg',
         clicked: false
     },
     {
         name: 'Crazy Eyes',
-        img: 'images/crazyEyes.jpg',
+        img: './images/crazyEyes.jpg',
         clicked: false
     },
     {
         name: 'Tiffany',
-        img: 'images/tiffany.jpg',
+        img: './images/tiffany.jpg',
         clicked: false
     },
     {
         name: 'Taystee',
-        img: 'images/taystee.jpg',
+        img: './images/taystee.jpg',
         clicked: false
     },
     {
         name: 'Vee',
-        img: 'images/vee.jpg',
+        img: './images/vee.jpg',
         clicked: false
     },
     {
         name: 'Sophia',
-        img: 'images/sophia.jpg',
+        img: './images/sophia.jpg',
         clicked: false
     },
     {
         name: 'Poussey',
-        img: 'images/poussey.jpg',
+        img: './images/poussey.jpg',
         clicked: false
     },
     {
         name: 'Dayanara',
-        img: 'images/dayanara.jpg',
+        img: './images/dayanara.jpg',
         clicked: false
     },
     {
         name: 'Nicky',
-        img: 'images/nicky.jpg',
+        img: './images/nicky.jpg',
         clicked: false
     },
 ]
